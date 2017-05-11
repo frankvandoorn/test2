@@ -1,5 +1,7 @@
 package com.example.fdo02.test2;
 
+//test
+
 import android.app.Application;
 import android.test.ApplicationTestCase;
 
